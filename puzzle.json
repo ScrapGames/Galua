@@ -6,6 +6,6 @@
     "dev": "scrap run src/main.scrap"
   },
   "dependencies": {
-    "vis": "1.0.0"
+    "Vis": "1.0.0"
   },
 }
