@@ -1,0 +1,11 @@
+{
+  "name": "Galua",
+  "version": "alpha-1.0.0",
+  "license": "GPL",
+  "scripts": {
+    "dev": "scrap run src/main.scrap"
+  }
+  "dependencies": {
+    "vis": "1.0.0"
+  }
+}
